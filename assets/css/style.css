@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#fotoBorde {
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+h2, h3 {
+    margin-top: 20px;
+    margin-left: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.elementos {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.divSticker {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sticker {
+    width: 200px;
+}
+
+input {
+    width: 80px;
+}
+
+.centrado {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.divFlex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.passFlex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 250px;
+    height: 200px;
+    border: 2px solid black;
+    padding: 30px;
+}
+
+.titulo {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+
+p {
+    padding-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+br {
+    padding: 60px;
+}
