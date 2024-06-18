@@ -1,1 +1,1 @@
-**Desploy:** https://javacamacho.github.io/condiciones/
+**Deploy:** https://javacamacho.github.io/condiciones/
